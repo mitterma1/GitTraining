@@ -1,0 +1,2 @@
+# GitTraining
+Test git features
